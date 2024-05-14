@@ -1,3 +1,4 @@
-let message = 'Welcome Students!!';
+let name = 'Sathish'
+let message = `Welcome ${name}!!`;
 
 console.log(message);
